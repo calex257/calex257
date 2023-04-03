@@ -8,7 +8,7 @@ I am currently studying Computer Science at University Politehnica of Bucharest.
 
 ## Statistics
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=calex257&show_icons=true&theme=onedark&count_private=true&show_icons=true&hide_border=true&hide_title=true&custom_title=My%20Github%20stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=calex257&show_icons=true&theme=onedark&show_icons=true&hide_border=true&hide_title=true&custom_title=My%20Github%20stats)
 
 <!--
 **calex257/calex257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
